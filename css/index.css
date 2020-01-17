@@ -203,3 +203,34 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* about page */
+
+h6 {
+    margin: 3% 0;
+    font-weight: 600;
+}
+
+p {
+    margin: 3% 0;
+}
+
+hr {
+    border-top: 1px dashed black;
+    margin: 3% 0;
+}
+
+button {
+    border-radius: 7px;
+    width: 35%;
+    height: 5vh;
+    border: 1px solid black;
+}
+
+.section-two-container {
+    display: flex;
+}
+
+.section-two1 {
+    margin-right: 8%;
+}
